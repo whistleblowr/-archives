@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    color: white;
+    padding: 50px;
+    
+}
+body{
+    background-image: url("Computer-screen-code-glitch-animation-gif-background-free.gif") ;
+}
+article {
+    width: 50%;
+    background-color: black;
+    color: white;
+    height: 300px;
+    text-align: center;
+    padding: 30px;
+    float: left;
+}
+main {
+    width: 5%;
+    float: left;
+    height: 300px;
+    text-align: center;
+    padding: 30px;
+}
+#oo{
+    background-color: black;
+    color: green;
+    text-align: center;
+}
